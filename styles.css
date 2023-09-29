@@ -1,0 +1,41 @@
+h1 { /* The h1 is a selector */
+    color: red; /* This is a declaration, the color is the CSS property and the property value is the color red. */
+    text-align: center;
+    font-size: 50px;
+}
+/* styles.css */
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+/* styles.css */
+p {
+    font-style: italic;
+}
+
+img {
+    border-radius: 10px;
+}
+/* styles.css */
+.navlink {
+    color: blue;
+    border: 1px solid black;
+    display: inline;
+}
+/* styles.css */
+#home, #gallery, #about {
+    text-align: center;
+}
+#box-model {
+    background-color: aqua;
+    margin: 100px;
+    padding: 50px;
+    border: 1px solid black;
+}
+
+#paragraph1 {
+    background-color: firebrick;
+    margin-left: 50px;
+    margin-bottom: 150px;
+    border: 1px solid black;
+}
